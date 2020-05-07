@@ -16,7 +16,7 @@ import java.io.IOException;
 public class Client {
 
     String START_OF_URL = "https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=";
-    String END_OF_URL = "&apikey=5ZUM9M0UPVLNW3CA";
+    String END_OF_URL = "&apikey=*************";
     Gson gson = new Gson();
 
 
